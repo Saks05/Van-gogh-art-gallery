@@ -13,8 +13,6 @@ const Routes = () => {
       path: "/home",
       element: <Home />,
     },
-  
-
     {
       path: "/browse",
       element: <Browse />,
