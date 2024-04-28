@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2Fdefault.webp?alt=media&token=916167e7-7a3d-437f-a6dc-6be73182b6b9",
+        "title": "Montmartre in the Rain",
+        "desc": "When he painted this townscape, Bonnard took on a double challenge: the light was failing and it was raining. He was looking out of the window of his Montmartre studio at a view he depicted in a number of works.His decision to place an expanse of blank wall at the centre of the composition is daring. It gives the least picturesque part of the painting the most emphasis. But there is more to it: look at the perspective. Bonnard has used the difference in distance to the middle roofs and the street in an illogical way. He borrowed ideas for this kind of division of the picture plane and irregular perspective from Japanese prints.",
+        "category": "contemporary"
+    },
+    {
+        "id": 2,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F2.webp?alt=media&token=f11668b5-5b06-401b-b808-303c123abe0a",
+        "title": "Tulip Fields near The Hague",
+        "desc": "Claude Monet was enormously impressed by the brightly coloured bulb fields of Holland. In the early spring of 1886, he wrote to a friend that the sight was 'impossible to convey with our poor colour's. Monet had been to the Netherlands before, but was painting the sea of flowers for the first time.Back in Paris, he sold the painting via art dealers Boussod, Valadon & Cie, where Theo van Gogh worked. It’s quite possible that his brother Vincent saw it there. Vincent gradually came to admire Monet’s swift brushstrokes and bright colours.",
+        "category": "contemporary"
+    },
+    {
+        "id": 3,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F3.webp?alt=media&token=56c67370-946e-4a2a-8bb4-5aef3c4911b0",
+        "title": "Peasant Family at the Table",
+        "desc": "Jozef Israëls (1824 - 1911), 1882 oil on canvas, 71 cm x 105 cm  Credits (obliged to state): Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)",
+        "category": "contemporary"
+    },
+    {
+        "id": 4,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F4.webp?alt=media&token=260eec42-687b-4fcc-af2e-419d2b121ec6",
+        "title": "October",
+        "desc": "Charles-François Daubigny (1817 - 1878), 1850-1878  oil on canvas, 88 cm x 160 cm Credits: On loan from Rijksmuseum, Amsterdam (gift of M.C. Baroness Van Lynden-Van Pallandt, The Hague)",
+        "category": "contemporary"
+    },
+    {
+        "id": 5,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F5.webp?alt=media&token=66e062c0-a387-44d8-84a7-7deb0df9bd7c",
+        "title": "The Blue Dress",
+        "desc": "Kees van Dongen (1877 - 1968), Paris, in or before 1911 oil on canvas, 146.2 cm x 114.4 cm Credits: Van Gogh Museum, Amsterdam (purchased with support from the VriendenLoterij), c/o Pictoright Amsterdam 2023",
+        "category": "contemporary"
+    },
+    {
+        "id": 6,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F6.webp?alt=media&token=605d51b4-f0c8-414a-9746-e95184c41263",
+        "title": "Flowers from Normandy",
+        "desc": "Henri Fantin-Latour (1836 - 1904), 1887 oil on canvas, 72 cm x 60 cm Credits: On loan from Rijksmuseum, Amsterdam (bequest of Mr. A. van Wezel, Amsterdam, 1922)",
+        "category": "contemporary"
+    },
+    {
+        "id": 7,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F7.webp?alt=media&token=474b44e4-f570-4c7e-8cb9-deacba66ab18",
+        "title": "Young Woman at a Table, 'Poudre de riz'",
+        "desc": "Henri de Toulouse-Lautrec (1864 - 1901), 1887 oil on canvas, 56 cm x 46 cm Credits (obliged to state): Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)",
+        "category": "contemporary"
+    },
+    {
+        "id": 8,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F8.webp?alt=media&token=d181434b-6f5b-46a2-9490-b3b80e47cbce",
+        "title": "Haymaking, Éragny",
+        "desc": "Camille Pissarro (1830 - 1903), Éragny, 1887 oil on canvas, 55 cm x 66 cm",
+        "category": "contemporary"
+    },
+    {
+        "id": 9,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F9.webp?alt=media&token=a8303f64-e09d-4d15-8d14-b6758aa4d200",
+        "title": "Self-Portrait with Portrait of Emile Bernard (Les misérables)",
+        "desc": "Paul Gauguin (1848 - 1903), Pont-Aven, 1888 oil on canvas, 44.5 cm x 50.3 cm Credits (obliged to state): Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)",
+        "category": "contemporary"
+    },
+    {
+        "id": 10,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F10.webp?alt=media&token=2cc6b35e-aed5-4a00-bb77-fbc748c2df13",
+        "title": "The Meal",
+        "desc": " Auguste Boulard (1825 - 1897), c. 1850-1892 oil on canvas, 88 cm x 73 cm Credits: On loan from Rijksmuseum, Amsterdam (gift of M.C. Baroness Van Lynden-Van Pallandt, The Hague)",
+        "category": "contemporary"
+    },
+    {
+        "id": 11,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F11.webp?alt=media&token=d3886d77-81f1-4d4f-869c-d22a3203399e",
+        "title": "Girl Carrying Water",
+        "desc": "Jean-François Millet (1814 - 1875), c. 1855-1865",
+        "category": "contemporary"
+    },
+    {
+        "id": 12,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F12.webp?alt=media&token=5008c4ef-830d-4fb2-a3fa-abe9547a80c0",
+        "title": "Self-Portrait with Portrait of Gauguin",
+        "desc": "Emile Bernard (1868 - 1941), Pont-Aven, 1888",
+        "category": "contemporary"
+    },
+    {
+        "id": 13,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F13.webp?alt=media&token=db95185f-ee0e-43ed-97fc-5c3193bddca3",
+        "title": "The Supper at Emmaus",
+        "desc": "Maurice Denis (1870 - 1943), Saint-Germain-en-Laye, 1894",
+        "category": "contemporary"
+    },
+    {
+        "id": 14,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F14.webp?alt=media&token=c24e3ab4-1d3e-417c-97ff-b9ded8970d40",
+        "title": "Women on the Banks of the River",
+        "desc": "Paul Gauguin (1848 - 1903), Tahiti, 1892",
+        "category": "contemporary"
+    },
+    {
+        "id": 15,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F15.webp?alt=media&token=be7c9844-7f66-4c21-aea5-ab2f190ed1e6",
+        "title": "The Church Tower of Bussy-Saint-Georges",
+        "desc": "Leo Marie Gausson (1860 - 1944), Bussy-Saint-Georges, 1890",
+        "category": "contemporary"
+    },
+    {
+        "id": 16,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F16.webp?alt=media&token=d83f7749-bd32-437d-a562-023c1dfb0bf0",
+        "title": "Portrait of a Girl with a Bunch of Flowers",
+        "desc": "Hans Heyerdahl (1857 - 1913), Paris, 1882",
+        "category": "contemporary"
+    },
+    {
+        "id": 17,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F17.webp?alt=media&token=5701e7a8-e862-432e-bf44-104eaa186255",
+        "title": "Self-Portrait with Palette",
+        "desc": "Armand Guillaumin (1841 - 1927), 1878",
+        "category": "contemporary"
+    },
+    {
+        "id": 18,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F18.webp?alt=media&token=c78d50b9-bbda-4119-aeec-7e36954b9efb",
+        "title": "Coal Barges on the Thames",
+        "desc": "Frank Myers Boggs (1855 - 1926), c. 1883-1886",
+        "category": "contemporary"
+    },
+    {
+        "id": 19,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F19.webp?alt=media&token=c1f2c242-b779-4e07-b5b6-a53c8913362a",
+        "title": "View of Semur",
+        "desc": "Emile Bernard (1868 - 1941), Semur, 1930",
+        "category": "contemporary"
+    },
+    {
+        "id": 20,
+        "image": "https://firebasestorage.googleapis.com/v0/b/van-ghogh.appspot.com/o/van-ghogh-images%2F20.webp?alt=media&token=5ffa8eed-c7b4-4a14-a889-42eca638e273",
+        "title": "Portrait of Joseph-Michel Ginoux",
+        "desc": "Paul Gauguin (1848 - 1903), Arles, 1888",
+        "category": "contemporary"
+    }
+]
